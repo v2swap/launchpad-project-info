@@ -1,49 +1,19 @@
 {
     "data": {
-      "0xd152eBB6FdF6a45f0061760Da571B47B1317C579": {
+      "0x55F4a953F0D49f9A0113acCD90b85431931D5C3f": {
         "Name": "Your Project Name 1",
-        "MiniDescription": "A brief description of your project 1. A brief description of your project 1. A brief description of your project 1.",
+        "MiniDescription": "A brief description of your project 1.",
         "Website": "https://yourwebsite1.com",
         "Twitter": "https://twitter.com/yourtwitter1",
         "Github": "https://github.com/yourgithub1",
         "FullDescription": "A more detailed description of your project 1.",
         "Whitepaper": "https://yourwebsite1.com/whitepaper.png",
-        "Tokenomics": "https://yourwebsite1.com/tokenomics.png",
-        "Vesting": "https://yourwebsite1.com/vesting.png",
-        "RoadMap": "https://yourwebsite1.com/roadmap.png",
-        "Team": "https://yourwebsite1.com/team.png",
-        "PrivateInvestors": "https://yourwebsite1.com/privateinvestors.png",
-        "OtherInfo": "Additional information for project 1."
-      },
-      "0x76f2CAb2D8F2f119F4fAa1f5E1736ca1ADCbfd98": {
-        "Name": "Your Project Name 2",
-        "MiniDescription": "A brief description of your project 2",
-        "Website": "https://yourwebsite2.com",
-        "Twitter": "https://twitter.com/yourtwitter2",
-        "Github": "https://github.com/yourgithub2",
-        "FullDescription": "A more detailed description of your project 2.",
-        "Whitepaper": "https://yourwebsite2.com/whitepaper.png",
-        "Tokenomics": "https://yourwebsite2.com/tokenomics.png",
-        "Vesting": "https://yourwebsite2.com/vesting.png",
+        "Tokenomics": "https://s3.cointelegraph.com/storage/uploads/view/01912a21eabe69f75c69d89dcbdf4d19.png",
+        "Vesting": "https://i0.wp.com/www.menabytes.com/wp-content/uploads/2019/03/Vesting-0002.png",
         "RoadMap": "https://powerslides.com/wp-content/uploads/2022/02/Agile-Product-Roadmap-Template-1.png",
-        "Team": "https://yourwebsite2.com/team.png",
-        "PrivateInvestors": "https://yourwebsite2.com/privateinvestors.png",
-        "OtherInfo": "Additional information for project 2."
-      },
-      "0xA26D33f790eC3E31457fe1F438B99431D5dEA0EE": {
-        "Name": "Your Project Name 3",
-        "MiniDescription": "A brief description of your project 3",
-        "Website": "https://yourwebsite3.com",
-        "Twitter": "https://twitter.com/yourtwitter3",
-        "Github": "https://github.com/yourgithub3",
-        "FullDescription": "A more detailed description of your project 3.",
-        "Whitepaper": "https://yourwebsite3.com/whitepaper.png",
-        "Tokenomics": "https://yourwebsite3.com/tokenomics.png",
-        "Vesting": "https://yourwebsite3.com/vesting.png",
-        "RoadMap": "https://yourwebsite3.com/roadmap.png",
-        "Team": "https://yourwebsite3.com/team.png",
-        "PrivateInvestors": "https://yourwebsite3.com/privateinvestors.png",
-        "OtherInfo": "Additional information for project 3."
+        "Team": "https://image.slidesdocs.com/responsive-images/slides/2-silky-switching-animation-team-introduction-powerpoint-background_8e63bd5a51__960_540.jpg",
+        "PrivateInvestors": "https://visme.co/blog/wp-content/uploads/2022/05/combination-mark-logo-examples.jpg",
+        "OtherInfo": "Additional information for project 1."
       }
     }
   }
